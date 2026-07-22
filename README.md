@@ -10,4 +10,4 @@ The dataset is pulled via API programming so as to avoid locally downloading a l
 I utilize stochastic gradient descent in the program (SGD) which is known to get more and more accurate as you increase the amount of epochs (convergence). 
 Presently the code is a "mini-batch SGD" for the sake of time complexity.
 For the sake of immediate demonstration and rapid prototyping the data volume and epoch count are intentionally restricted to a streamlined subset.
-In terms of model evaluation, an F-1 score is generated along with a confusion matrix to discover class imbalances. 
+In terms of model evaluation, an overall score and an F-1 score is generated along with a confusion matrix to discover class imbalances. 
