@@ -11,4 +11,3 @@ I utilize stochastic gradient descent in the program (SGD) which is known to get
 Presently the code is a "mini-batch SGD" for the sake of time complexity.
 For the sake of immediate demonstration and rapid prototyping the data volume and epoch count are intentionally restricted to a streamlined subset.
 In terms of model evaluation, an F-1 score is generated along with a confusion matrix to discover class imbalances. 
-This is not meant to showcase every skill related to AI but should show a willingness to learn and an ability to apply concepts into code.
